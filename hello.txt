@@ -1,7 +1,7 @@
 hello git! hello ereryone! 222
 hello git! hello ereryone! 333
-hello git! hello ereryone! 
 hello git! hello ereryone! master test1
+hello git! hello ereryone! hot-fix test1
 hello git! hello ereryone!
 hello git! hello ereryone!
 hello git! hello ereryone!
